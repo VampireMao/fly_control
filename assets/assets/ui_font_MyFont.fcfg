@@ -1,0 +1,14 @@
+{
+  "codename": "MyFont",
+  "ttf_path": "\\assets\\ZCOOLQingKeHuangYou-Regular.ttf",
+  "bin_path": "\\assets\\ui_font_MyFont.bin",
+  "c_path": "\\assets\\ui_font_MyFont.c",
+  "cfg_path": "\\assets\\ui_font_MyFont.fcfg",
+  "size": 24,
+  "bpp": 1,
+  "letters": 5,
+  "ranges": [],
+  "symbols": ".1234567890TextasfdCOM:com1_active",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
